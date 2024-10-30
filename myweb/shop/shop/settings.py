@@ -81,11 +81,11 @@ WSGI_APPLICATION = 'shop.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'mysql.connector.django',
-        'NAME':'abitest',
-        'USER':'root',
-        'PASSWORD':'26182618m',
-        'HOST':'localhost',
-        'PORT':'3306'
+        'NAME':'',
+        'USER':'',
+        'PASSWORD':'',
+        'HOST':'',
+        'PORT':''
     }
 }
 
