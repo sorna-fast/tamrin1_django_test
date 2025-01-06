@@ -70,4 +70,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Feel free to adjust any details based on your specific setup or preferences!
+
+### 📧 ارتباط با من | Contact
+برای هرگونه سوال یا پیشنهاد، می‌توانید از طریق ایمیل با من تماس بگیرید: masudpythongit@gmail.com
